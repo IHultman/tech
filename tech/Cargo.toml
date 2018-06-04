@@ -1,0 +1,6 @@
+[package]
+name = "tech"
+version = "0.1.0"
+authors = ["Ian Hultman <Ian-Hultman@uiowa.edu>"]
+
+[dependencies]
